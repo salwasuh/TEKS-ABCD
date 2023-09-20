@@ -1,0 +1,9 @@
+NUM 123
+
+- Teks 1
+- Teks 2
+  ^ a
+  ^ b
+- teks 3
+  ^ c
+- teks 4
